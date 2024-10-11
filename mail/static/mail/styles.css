@@ -1,0 +1,10 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-view div {
+    border-style:solid;
+    border-width:2px;
+    margin-bottom:8px;
+    padding:10px;
+}
